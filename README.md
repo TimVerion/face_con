@@ -11,4 +11,6 @@ static 静态文件
 templates html文件
 
 face_snapchat.py 功能函数
+2，概览
+![ab](G:\PyCharm\online_pro\face_con\resources\ab.jpg)
 
